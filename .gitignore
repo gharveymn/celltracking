@@ -1,0 +1,5 @@
+res/cached/*
+!res/cached/.gitkeep
+*.pkl
+*__pycache__
+.vscode
